@@ -1,0 +1,24 @@
+{
+  "name": "restaurante",
+  "version": "1.0.0",
+  "description": "This project is part of the curriculum of The Odin project. This serves as an introduction into webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-Apollo/restaurante.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r-Apollo/restaurante/issues"
+  },
+  "homepage": "https://github.com/r-Apollo/restaurante#readme",
+  "dependencies": {
+    "webpack": "^5.64.3",
+    "webpack-cli": "^4.9.1"
+  }
+}
