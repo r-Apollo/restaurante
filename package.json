@@ -4,7 +4,8 @@
   "description": "This project is part of the curriculum of The Odin project. This serves as an introduction into webpack.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
